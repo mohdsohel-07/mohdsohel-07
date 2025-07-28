@@ -1,5 +1,5 @@
 ## Hi there 👋
-📫 How to reach me: [My Resume] (https://github.com/mohdsohel-07/mohdsohel-07/blob/main/myresume.pdf)
+📫 How to reach me: [My Resume](https://github.com/mohdsohel-07/mohdsohel-07/blob/main/myresume.pdf)
 <!--
 **mohdsohel-07/mohdsohel-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
