@@ -1,5 +1,7 @@
 ## Hi there 👋
-📫 How to reach me: [My Resume](https://mohdsohel-07.github.io/mohdsohel-07/)
+📫 How to reach me : [My Resume](https://mohdsohel-07.github.io/mohdsohel-07/)
+---
+🔭You can find about me : [Get Me](https://mohdsohel-07.github.io/portfolio/)
 <!--
 **mohdsohel-07/mohdsohel-07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
